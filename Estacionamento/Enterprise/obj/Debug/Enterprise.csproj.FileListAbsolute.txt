@@ -1,0 +1,8 @@
+D:\Csharp\Enterprise\Enterprise\bin\Debug\Enterprise.exe.config
+D:\Csharp\Enterprise\Enterprise\bin\Debug\Enterprise.exe
+D:\Csharp\Enterprise\Enterprise\bin\Debug\Enterprise.pdb
+D:\Csharp\Enterprise\Enterprise\obj\Debug\Enterprise.csproj.AssemblyReference.cache
+D:\Csharp\Enterprise\Enterprise\obj\Debug\Enterprise.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\Enterprise\Enterprise\obj\Debug\Enterprise.csproj.CoreCompileInputs.cache
+D:\Csharp\Enterprise\Enterprise\obj\Debug\Enterprise.exe
+D:\Csharp\Enterprise\Enterprise\obj\Debug\Enterprise.pdb
